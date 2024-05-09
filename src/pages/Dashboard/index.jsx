@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import PeopleList from './components/PeopleList'
 
 function Dashboard(props) {
